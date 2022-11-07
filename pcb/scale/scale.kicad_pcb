@@ -673,7 +673,7 @@
     (property "Sheetname" "")
     (path "/1deb4551-e6de-47a4-9156-b62596f083e8")
     (attr smd)
-    (fp_text reference "D2" (at 0 -1.43 90) (layer "F.SilkS")
+    (fp_text reference "D2" (at -2.5146 -0.0254 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cdb2477d-81ac-4a06-aa5d-e96a0d5dae62)
     )
@@ -4684,10 +4684,10 @@
     (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 179.07 98.552)
+        (xy 172.847 98.552)
         (xy 69.088 98.806)
         (xy 69.088 50.8)
-        (xy 179.07 50.8)
+        (xy 172.847 50.8)
       )
     )
     (filled_polygon
